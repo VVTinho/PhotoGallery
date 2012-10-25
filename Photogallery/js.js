@@ -38,7 +38,7 @@ function close_box()
 
 function close_login()
 {
-	$('#login').animate({'right':'-352'}, 300, 'linear');
+	$('#login').animate({'right':'-360'}, 300, 'linear');
 }
 
 function imageclick(name, width, height)

@@ -60,12 +60,12 @@ body
 }
 
 #login{
-	width: 352px;
+	width: 360px;
 	height: 30px;
 	background: #C00;
 	position: fixed;
 	bottom: 0;
-	right: -352px;
+	right: -360px;
 }
 
 #logout{
